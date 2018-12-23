@@ -30,3 +30,6 @@ node index.js
 ### End the Game
 
 The game restarts whenever you win or lose. However, to quit the game at any time, you can enter ctrl+C to leave node.
+
+### Video Demo of the Game:
+https://drive.google.com/open?id=1TGSbP66a9LVpCZNE0BBuB9fd_7bUZQ7F
